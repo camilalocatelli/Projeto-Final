@@ -45,7 +45,7 @@
 
 Caso esteja usando Linux ou Mac, Execute utilizando o comando:
 
-```dotnet Projeto2021_2.dl```
+```dotnet Projeto-Final-2022.dll```
 
 
 # Agradecimentos
