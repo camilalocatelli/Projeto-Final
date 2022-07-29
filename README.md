@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-- Esse programa foi feito para o encerramento do primeiro módulo do curso de Informática.
+- Esse programa foi feito para o encerramento do primeiro módulo do curso Técnico de Informática, feito na ETEC Adolphho Berezin.
 
 - Consiste em uma calculadora de 8 operações: soma, subtração, multiplicação, divisão, exponenciação, radiciação, MDC e média aritmética. 
 
